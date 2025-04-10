@@ -1,4 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+## Register Number:212224040200
+## Date:10-04-2025
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
@@ -36,7 +38,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/4c86aa0e-0600-4455-92d6-21d9b314b8da)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
